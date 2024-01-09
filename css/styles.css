@@ -1,6 +1,4 @@
-.hide {
-    display: none;
-}
+
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -32,7 +30,6 @@ img {
     
 }
     
-}
 .container {
     max-width: 320px;
     padding-left: 16px; padding-right: 16px;
